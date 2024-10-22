@@ -1,0 +1,126 @@
+[{
+  "_id": {
+    "$oid": "67152e8883127faa0b5862d8"
+  },
+  "fullName": "Abhi Churasia",
+  "email": "abhi@gmail.com",
+  "dob": {
+    "$date": "1998-02-05T18:30:00.000Z"
+  },
+  "joiningDate": {
+    "$date": "2024-03-01T18:30:00.000Z"
+  },
+  "address": "Delhi NCR",
+  "createdAt": {
+    "$date": "2024-10-20T16:23:36.541Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-20T16:23:36.541Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67152f7683127faa0b5862e1"
+  },
+  "fullName": "Vaibhav Singhhhh",
+  "email": "vaibhav@gmail.com",
+  "dob": {
+    "$date": "2003-01-09T00:00:00.000Z"
+  },
+  "joiningDate": {
+    "$date": "2024-05-01T00:00:00.000Z"
+  },
+  "address": "Lucknow",
+  "createdAt": {
+    "$date": "2024-10-20T16:27:34.008Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-20T18:15:27.187Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67155f8a84ccc1983a2fd165"
+  },
+  "fullName": "Abhishek Verma ",
+  "email": "abhishek@gmail.com",
+  "dob": {
+    "$date": "2024-10-15T00:00:00.000Z"
+  },
+  "joiningDate": {
+    "$date": "2024-10-04T00:00:00.000Z"
+  },
+  "address": "Lucknow",
+  "createdAt": {
+    "$date": "2024-10-20T19:52:42.120Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-20T19:52:42.120Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67155fb884ccc1983a2fd172"
+  },
+  "fullName": "Viraaj Singh",
+  "email": "viraj@gmail.com",
+  "dob": {
+    "$date": "2024-10-02T00:00:00.000Z"
+  },
+  "joiningDate": {
+    "$date": "2024-10-04T00:00:00.000Z"
+  },
+  "address": "Varanasi, UP",
+  "createdAt": {
+    "$date": "2024-10-20T19:53:28.488Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-20T19:53:28.488Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67155fe284ccc1983a2fd17f"
+  },
+  "fullName": "Prachi Singh ",
+  "email": "prachi@gmail.com",
+  "dob": {
+    "$date": "2024-10-08T00:00:00.000Z"
+  },
+  "joiningDate": {
+    "$date": "2024-09-30T00:00:00.000Z"
+  },
+  "address": "Noida, UP",
+  "createdAt": {
+    "$date": "2024-10-20T19:54:10.849Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-20T19:54:10.849Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6715603984ccc1983a2fd18c"
+  },
+  "fullName": "Khushi Mishra",
+  "email": "khushi@gmail.com",
+  "dob": {
+    "$date": "2010-05-26T00:00:00.000Z"
+  },
+  "joiningDate": {
+    "$date": "2024-10-08T00:00:00.000Z"
+  },
+  "address": "Kanpur- UP",
+  "createdAt": {
+    "$date": "2024-10-20T19:55:37.602Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-20T19:55:37.602Z"
+  },
+  "__v": 0
+}]
